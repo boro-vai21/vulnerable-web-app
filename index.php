@@ -2,6 +2,7 @@
 <html>
 <head>
     <p> This is test </p>
+    <p> This is test2 </p>
     <title>Home Page</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <style>
