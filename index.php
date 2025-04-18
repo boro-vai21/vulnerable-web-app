@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <p> This is test </p>
     <title>Home Page</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <style>
